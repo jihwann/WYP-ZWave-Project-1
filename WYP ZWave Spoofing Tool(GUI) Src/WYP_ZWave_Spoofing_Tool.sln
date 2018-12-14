@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYP_ZWave_Spoofing_Tool", "test_GUI\WYP_ZWave_Spoofing_Tool.csproj", "{35A47018-8040-46C0-8D3F-276C8F83C639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZWaveLib", "ZWaveLib\ZWaveLib.csproj", "{06995CE8-149B-42FA-B345-FB11C4D6E180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A47018-8040-46C0-8D3F-276C8F83C639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A47018-8040-46C0-8D3F-276C8F83C639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A47018-8040-46C0-8D3F-276C8F83C639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A47018-8040-46C0-8D3F-276C8F83C639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06995CE8-149B-42FA-B345-FB11C4D6E180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06995CE8-149B-42FA-B345-FB11C4D6E180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06995CE8-149B-42FA-B345-FB11C4D6E180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06995CE8-149B-42FA-B345-FB11C4D6E180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8796D825-090F-45F8-89C9-5D04EB597EDA}
+	EndGlobalSection
+EndGlobal

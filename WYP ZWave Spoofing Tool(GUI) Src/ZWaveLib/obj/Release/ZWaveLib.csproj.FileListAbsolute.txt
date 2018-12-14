@@ -1,0 +1,10 @@
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\ZWaveLib.dll
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\ZWaveLib.pdb
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\NLog.dll
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\SerialPortLib.dll
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\NLog.xml
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\bin\Release\SerialPortLib.xml
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\obj\Release\ZWaveLib.csprojResolveAssemblyReference.cache
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\obj\Release\ZWaveLib.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\obj\Release\ZWaveLib.dll
+C:\Users\LG\source\repos\test_GUI\ZWaveLib\obj\Release\ZWaveLib.pdb

@@ -1,0 +1,21 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+
+*.userprefs
+*.suo
+*.pidb
+Thumbs.db
+.idea
+
+# Nuget packages
+packages/*
+!packages/repositories.config
+
+\.vs/
+# VisualStudio For Mac
+.vs/**/*
